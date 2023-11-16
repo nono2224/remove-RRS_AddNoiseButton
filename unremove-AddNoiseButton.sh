@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/zsh
 
 # 変数の設定
 FILE_PATH="./../modules/maps/src/maps/gml/editor/GMLEditor.java"  # ファイルのパス
